@@ -58,7 +58,7 @@ At the end of this course, participants will be able to:
 - [Vinicíus Maracajá-Coutinho](https://integrativebioinformatics.me/), University of Chile, Chile
 - [Patricia Severino](https://www.researchgate.net/profile/Patricia-Severino), Albert Einstein Research and Education Institute, Brazil
 - [Lia Chappell](https://www.sanger.ac.uk/person/chappell-lia/), Wellcome Sanger Institute, UK
-- [Benilton de Sá Carvalho](http://www.ime.unicamp.br/~dirimecc/IMECCdata/membro-0897291971174045.html), Unicamp, Brazil
+- [Benilton de Sá Carvalho](http://lattes.cnpq.br/0897291971174045), Unicamp, Brazil
 - [Yesid Cuesta Astroz](https://scholar.google.es/citations?user=q0hiAjEAAAAJ&hl=es), University of Antioquía, Colombia
 - [Anita Scoones](https://www.earlham.ac.uk/profile/anita-scoones), Earlham Institute, United Kingdom
 - [Danielle Carvalho](https://br.linkedin.com/in/danielle-carvalho-2aa894197?trk=public_profile_browsemap_profile-result-card_result-card_full-click), National Institute of Cancer (INCA), Brazil
@@ -112,12 +112,12 @@ This module focuses on techniques for assessing and ensuring the quality of sing
 ### Module 6: Data Normalization and Clustering
 n this module, participants will learn methods for normalizing single-cell RNA sequencing data to account for technical variability. The module also covers clustering techniques to identify distinct cell populations within a dataset.  
 - [Google Colab Notebook](https://drive.google.com/file/d/1Sp4feBQOZ0aM3qkFHQh1K9WzJpiTut22/view?usp=drive_link)
-- Slides
+- [Slides](https://github.com/benilton/wcs-rio/raw/main/norm_clust.zip)
 
 ### Module 7: Differential Expression and Cell Type Annotation
 This module teaches methods for identifying differentially expressed genes between cell populations and annotating cell types based on gene expression profiles. Techniques for statistical testing and functional annotation will be discussed.
 - [Google Colab Notebook](https://drive.google.com/file/d/1Sp4feBQOZ0aM3qkFHQh1K9WzJpiTut22/view?usp=drive_link)
-- Slides
+- [Slides](https://github.com/benilton/wcs-rio/raw/main/de_annot.zip)
 
 ### Module 8: Functional Analysis
 Participants will explore various approaches to functional analysis of single-cell RNA sequencing data, including pathway analysis, gene set enrichment, and the integration of external biological knowledge to interpret cellular functions.
