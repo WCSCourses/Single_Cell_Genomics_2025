@@ -84,6 +84,60 @@ At the end of this course, participants will be able to:
 
 ******
 
+## Bioinformatics Material
+
+### Module 1: Single Cell Resources
+This module provides an overview of key resources and tools available for single-cell research, including databases, repositories, and software platforms that facilitate the exploration and analysis of single-cell data.  
+- [Slides](https://docs.google.com/presentation/d/189-cTq1yZYZtwIOWm740hge-5simQcqg3TmEot6npY0/edit?usp=drive_link)
+
+### Module 2: Hands-on Databases
+n this hands-on module, participants will explore various databases relevant to single-cell research, learning how to access, navigate, and extract valuable information for their studies.  
+- [Google Colab Notebook](https://colab.research.google.com/drive/1d4dy8ddiCsJyKiF7ZyBdOq0gZ9qSVjW9?usp=drive_link)
+
+### Module 3: Data Processing
+This module covers the fundamental steps of single-cell data processing, including quality assessment, read alignment, and the generation of expression matrices. Participants will gain practical experience with common data processing pipelines.  
+- [Google Colab Notebook](https://drive.google.com/file/d/1eLWaUJaH8aUn3NsFcrab2c9bYxkFjHhl/view?usp=drive_link)  
+- [Slides](https://docs.google.com/presentation/d/1i_jUWjEkZxL_Oaa4ys1y0h9RXeRq1BUi/edit?usp=drive_link&ouid=110642948640028618619&rtpof=true&sd=true)
+
+### Module 4: Single-cell RNASeq Data Structure
+Participants will learn about the structure and organization of single-cell RNA sequencing data. The module covers data formats, annotation standards, and how to manage and manipulate large-scale datasets.  
+- [Google Colab Notebook](https://drive.google.com/file/d/193nUNjEtb7fdqmTnQFOYFjua83xlnbmp/view?usp=drive_link)
+- Slides
+
+### Module 5: Data Quality Control
+This module focuses on techniques for assessing and ensuring the quality of single-cell RNA sequencing data. Topics include identifying and mitigating sources of technical noise, filtering out low-quality cells, and standardizing quality control metrics.  
+- [Google Colab Notebook](https://drive.google.com/file/d/1Sp4feBQOZ0aM3qkFHQh1K9WzJpiTut22/view?usp=drive_link)
+- Slides
+  
+### Module 6: Data Normalization and Clustering
+n this module, participants will learn methods for normalizing single-cell RNA sequencing data to account for technical variability. The module also covers clustering techniques to identify distinct cell populations within a dataset.  
+- [Google Colab Notebook](https://drive.google.com/file/d/1Sp4feBQOZ0aM3qkFHQh1K9WzJpiTut22/view?usp=drive_link)
+- Slides
+
+### Module 7: Differential Expression and Cell Type Annotation
+This module teaches methods for identifying differentially expressed genes between cell populations and annotating cell types based on gene expression profiles. Techniques for statistical testing and functional annotation will be discussed.
+- [Google Colab Notebook](https://drive.google.com/file/d/1Sp4feBQOZ0aM3qkFHQh1K9WzJpiTut22/view?usp=drive_link)
+- Slides
+
+### Module 8: Functional Analysis
+Participants will explore various approaches to functional analysis of single-cell RNA sequencing data, including pathway analysis, gene set enrichment, and the integration of external biological knowledge to interpret cellular functions.
+- [Google Colab Notebook](https://drive.google.com/file/d/1Sp4feBQOZ0aM3qkFHQh1K9WzJpiTut22/view?usp=drive_link)
+- Slides
+
+### Module 9: scRNA-seq Dataset Integration
+This module covers strategies for integrating multiple single-cell RNA sequencing datasets to achieve a comprehensive understanding of cellular heterogeneity. Participants will learn about batch effect correction, data harmonization, and integration algorithms.
+- [Google Colab Notebook](https://drive.google.com/file/d/1g1zCMmMcgxHwLsCU7mttW4tcss6CmsXv/view?usp=drive_link)
+- Slides
+
+### Module 10: Integration Benchmarks
+In this module, participants will evaluate different integration methods through benchmark datasets. They will learn how to assess the performance of integration techniques and select the appropriate method for their specific research questions.
+- [Google Colab Notebook](https://drive.google.com/file/d/13iUa1SdEyPDYQYUaDC0sSJ0Ms5FIKfUJ/view?usp=drive_link)
+- [Slides](https://docs.google.com/presentation/d/1f2jQuYD9TeeXhYZw66ZakoSxyfmkDlr0xpq_prT0LsI/edit?usp=sharing)
+- [Data to be used](https://drive.google.com/file/d/14D0a5MctYveP8N77__jzJw8FEt5IdMIs/view?usp=drive_link)
+- [Data with all integrations](https://drive.google.com/file/d/1Z8aXT7vGtfIyIqVi9YLSd2XI6C3SD2iH/view?usp=drive_link)
+
+******
+
 ## Citing and Re-using Course Material
 
 The course data are free to reuse and adapt with appropriate attribution. All course data in these repositories are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /> 
