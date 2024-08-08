@@ -136,6 +136,35 @@ In this module, participants will evaluate different integration methods through
 - [Data to be used](https://drive.google.com/file/d/14D0a5MctYveP8N77__jzJw8FEt5IdMIs/view?usp=drive_link)
 - [Data with all integrations](https://drive.google.com/file/d/1Z8aXT7vGtfIyIqVi9YLSd2XI6C3SD2iH/view?usp=drive_link)
 
+### Project: Project Development
+We believe in hands-on learning and want to put your newly acquired bioinformatics skills to practice! At the end of our exciting week of classes, we've prepared a short project for you to dive into. This project will allow you to apply the knowledge gained throughout the course and further reinforce your understanding.
+
+Please access the project instructions [here](https://drive.google.com/file/d/1dGEdcvXCZfP4hY0dBerNiFDNjrLgMXeq/view?usp=drive_link).
+
+Feel free to explore, experiment, and ask questions as you work on the project. Remember, this is a fantastic opportunity to challenge yourself and gain practical experience in the fascinating world of single-cell transcriptomic RNA-seq data analysis.
+
+### Authorship and Acknowledgments
+This comprehensive material has resulted from collaborative efforts since 2021. It has been successfully employed in numerous courses organized by esteemed institutions like the Human Cell Atlas, the LatinCells initiative, and Wellcome Connecting Sciences. We extend our heartfelt gratitude to all the individuals listed below, who have actively contributed to the development and refinement of this material over the years. Their dedication and expertise have been instrumental in making this resource valuable for the bioinformatics community.
+We appreciate the continuous support and feedback from participants, mentors, and institutions that have made this endeavor possible. Together, we strive to advance the understanding and application of single-cell genomics in Latin America and the Caribbean.
+
+List of Contributors - Listed Alphabetically:
+
+- Adolfo Rojas
+- Benilton S. Carvalho
+- Carlos Alberto Oliveira de Biagi Júnior
+- Cesar Prada
+- Cristóvão Antunes
+- Erick Armingol
+- Gabriela Guimarães
+- Jacqueline Bocaccino
+- Leandro Santos
+- Mariana Boroni
+- Patricia Severino
+- Raúl Arias-Carrasco
+- Ricardo Khouri
+- Vinicius Maracaja-Coutinho
+- Yesid Cuesta
+
 ******
 
 ## Citing and Re-using Course Material
