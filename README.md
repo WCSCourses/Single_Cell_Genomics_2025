@@ -102,7 +102,6 @@ This module covers the fundamental steps of single-cell data processing, includi
 ### Module 4: Single-cell RNASeq Data Structure
 Participants will learn about the structure and organization of single-cell RNA sequencing data. The module covers data formats, annotation standards, and how to manage and manipulate large-scale datasets.  
 - [Google Colab Notebook](https://drive.google.com/file/d/193nUNjEtb7fdqmTnQFOYFjua83xlnbmp/view?usp=drive_link)
-- Slides
 
 ### Module 5: Data Quality Control
 This module focuses on techniques for assessing and ensuring the quality of single-cell RNA sequencing data. Topics include identifying and mitigating sources of technical noise, filtering out low-quality cells, and standardizing quality control metrics.  
@@ -121,7 +120,7 @@ This module teaches methods for identifying differentially expressed genes betwe
 
 ### Module 8: Functional Analysis
 Participants will explore various approaches to functional analysis of single-cell RNA sequencing data, including pathway analysis, gene set enrichment, and the integration of external biological knowledge to interpret cellular functions.
-- [Google Colab Notebook](https://drive.google.com/file/d/1Sp4feBQOZ0aM3qkFHQh1K9WzJpiTut22/view?usp=drive_link)
+- [Google Colab Notebook](https://drive.google.com/file/d/1qztBtdAJSTjQW5FGokcuaT-F59VZnF0a/view?usp=share_link)
 - Slides
 
 ### Module 9: scRNA-seq Dataset Integration
