@@ -68,7 +68,7 @@ At the end of this course, participants will be able to:
 - [Leandro Santos](https://sites.google.com/view/bioinformaticainca-en/about-us), National Institute of Cancer (INCA), Brazil
 - [Gabriela Rapozo](https://www.researchgate.net/profile/Gabriela-Rapozo), National Institute of Cancer (INCA), Brazil
 - [Adolfo Rojas](https://www.linkedin.com/in/adolfo-rojas-hidalgo-4b2a85164/), University of Chile, Chile
-- Jacqueline Boccacino, Wellcome Sanger Institute, UK
+- [Jacqueline Boccacino](https://www.sanger.ac.uk/person/boccacino-jacqueline/), Wellcome Sanger Institute, UK
 - Annie Squiavinato, National Institute of Cancer (INCA), Brazil
 - Nayara Tessarollo, National Institute of Cancer (INCA), Brazil
 
@@ -156,7 +156,7 @@ List of Contributors - Listed Alphabetically:
 - Cristóvão Antunes
 - Erick Armingol
 - Gabriela Guimarães
-- Jacqueline Bocaccino
+- Jacqueline Marcia Boccacino
 - Leandro Santos
 - Mariana Boroni
 - Patricia Severino
