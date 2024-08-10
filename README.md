@@ -5,8 +5,8 @@
 ## 9–15 August 2024, INCA, Rio de Janeiro, Brazil
 
 [Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-genomics-latin-america-the-caribbean-20240809/) <br /> 
-[Course Time Table YEAR](Add link here) <br /> 
-[Course Informatics Guide](Add link here)
+[Course Timetable 2024](https://github.com/WCSCourses/Single_Cell_Genomics_2024/blob/main/Single%20Cell%20LAM%202024%20Master%20Planner.xlsx%20-%20Final%20Timetable%2023%20Jul%202024-4.pdf)
+
 
 ## Summary
 
@@ -92,7 +92,7 @@ This module provides an overview of key resources and tools available for single
 
 ### Module 2: Hands-on Databases
 n this hands-on module, participants will explore various databases relevant to single-cell research, learning how to access, navigate, and extract valuable information for their studies.  
-- [Google Colab Notebook](https://colab.research.google.com/drive/1d4dy8ddiCsJyKiF7ZyBdOq0gZ9qSVjW9?usp=drive_link)
+- [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_2024/blob/main/modules/Module_01_02_DataBases.ipynb)
 
 ### Module 3: Data Processing
 This module covers the fundamental steps of single-cell data processing, including quality assessment, read alignment, and the generation of expression matrices. Participants will gain practical experience with common data processing pipelines.  
