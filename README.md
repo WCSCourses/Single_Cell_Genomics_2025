@@ -5,7 +5,7 @@
 ## 9–15 August 2024, INCA, Rio de Janeiro, Brazil
 
 [Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-genomics-latin-america-the-caribbean-20240809/) <br /> 
-[Course Time Table 2024](https://github.com/WCSCourses/Single_Cell_Genomics_2024/blob/main/Single%20Cell%20LAM%202024%20Master%20Planner.xlsx%20-%20Final%20Timetable%2023%20Jul%202024-4.pdf)
+[Course Timetable 2024](https://github.com/WCSCourses/Single_Cell_Genomics_2024/blob/main/Single%20Cell%20LAM%202024%20Master%20Planner.xlsx%20-%20Final%20Timetable%2023%20Jul%202024-4.pdf)
 
 
 ## Summary
