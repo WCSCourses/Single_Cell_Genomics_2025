@@ -92,7 +92,7 @@ This module provides an overview of key resources and tools available for single
 
 ### Module 2: Hands-on Databases
 n this hands-on module, participants will explore various databases relevant to single-cell research, learning how to access, navigate, and extract valuable information for their studies.  
-- [Google Colab Notebook](https://colab.research.google.com/drive/1d4dy8ddiCsJyKiF7ZyBdOq0gZ9qSVjW9?usp=drive_link)
+- [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_2024/blob/main/modules/Module_01_02_DataBases.ipynb)
 
 ### Module 3: Data Processing
 This module covers the fundamental steps of single-cell data processing, including quality assessment, read alignment, and the generation of expression matrices. Participants will gain practical experience with common data processing pipelines.  
