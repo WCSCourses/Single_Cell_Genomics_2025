@@ -96,12 +96,13 @@ n this hands-on module, participants will explore various databases relevant to 
 
 ### Module 3: Data Processing
 This module covers the fundamental steps of single-cell data processing, including quality assessment, read alignment, and the generation of expression matrices. Participants will gain practical experience with common data processing pipelines.  
-- [Google Colab Notebook](https://drive.google.com/file/d/1eLWaUJaH8aUn3NsFcrab2c9bYxkFjHhl/view?usp=drive_link)  
+- [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_2024/blob/main/modules/Module_03_Processing_RawSeqs_CellRanger.ipynb)
+  
 - [Slides](https://docs.google.com/presentation/d/1i_jUWjEkZxL_Oaa4ys1y0h9RXeRq1BUi/edit?usp=drive_link&ouid=110642948640028618619&rtpof=true&sd=true)
 
 ### Module 4: Single-cell RNASeq Data Structure
 Participants will learn about the structure and organization of single-cell RNA sequencing data. The module covers data formats, annotation standards, and how to manage and manipulate large-scale datasets.  
-- [Google Colab Notebook](https://drive.google.com/file/d/193nUNjEtb7fdqmTnQFOYFjua83xlnbmp/view?usp=drive_link)
+- [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_2024/blob/main/modules/Module_04_scRNAseq_Data_Structure.ipynb)
 
 ### Module 5: Data Quality Control
 This module focuses on techniques for assessing and ensuring the quality of single-cell RNA sequencing data. Topics include identifying and mitigating sources of technical noise, filtering out low-quality cells, and standardizing quality control metrics.  
