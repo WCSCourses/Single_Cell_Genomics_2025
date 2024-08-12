@@ -106,7 +106,7 @@ Participants will learn about the structure and organization of single-cell RNA 
 
 ### Module 5: Data Quality Control
 This module focuses on techniques for assessing and ensuring the quality of single-cell RNA sequencing data. Topics include identifying and mitigating sources of technical noise, filtering out low-quality cells, and standardizing quality control metrics.  
-- [Google Colab Notebook](https://drive.google.com/file/d/1Sp4feBQOZ0aM3qkFHQh1K9WzJpiTut22/view?usp=drive_link)
+- [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_2024/blob/main/modules/Modules_05_07_scRNA_seq_Quality_Control_To_DEA.ipynb)
 - [Slides](https://docs.google.com/presentation/d/1HW_Wi2RMOVU_-CrVuliHPR5TS8d3fGX5/edit?usp=drive_link&ouid=109970662236337661286&rtpof=true&sd=true)
   
 ### Module 6: Data Normalization and Clustering
