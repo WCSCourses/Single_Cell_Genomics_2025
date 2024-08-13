@@ -122,7 +122,7 @@ This module teaches methods for identifying differentially expressed genes betwe
 ### Module 8: Functional Analysis
 Participants will explore various approaches to functional analysis of single-cell RNA sequencing data, including pathway analysis, gene set enrichment, and the integration of external biological knowledge to interpret cellular functions.
 - [Google Colab Notebook](https://drive.google.com/file/d/1qztBtdAJSTjQW5FGokcuaT-F59VZnF0a/view?usp=share_link)
-- Slides
+- [Slides](https://docs.google.com/presentation/d/1mZxloQaeM1noblFMyOa4qcrdAsEy0FaTVgGA2thgB-E/edit?usp=share_link)
 
 ### Module 9: scRNA-seq Dataset Integration
 This module covers strategies for integrating multiple single-cell RNA sequencing datasets to achieve a comprehensive understanding of cellular heterogeneity. Participants will learn about batch effect correction, data harmonization, and integration algorithms.
