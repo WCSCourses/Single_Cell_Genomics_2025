@@ -96,16 +96,17 @@ n this hands-on module, participants will explore various databases relevant to 
 
 ### Module 3: Data Processing
 This module covers the fundamental steps of single-cell data processing, including quality assessment, read alignment, and the generation of expression matrices. Participants will gain practical experience with common data processing pipelines.  
-- [Google Colab Notebook](https://drive.google.com/file/d/1eLWaUJaH8aUn3NsFcrab2c9bYxkFjHhl/view?usp=drive_link)  
+- [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_2024/blob/main/modules/Module_03_Processing_RawSeqs_CellRanger.ipynb)
+  
 - [Slides](https://docs.google.com/presentation/d/1i_jUWjEkZxL_Oaa4ys1y0h9RXeRq1BUi/edit?usp=drive_link&ouid=110642948640028618619&rtpof=true&sd=true)
 
 ### Module 4: Single-cell RNASeq Data Structure
 Participants will learn about the structure and organization of single-cell RNA sequencing data. The module covers data formats, annotation standards, and how to manage and manipulate large-scale datasets.  
-- [Google Colab Notebook](https://drive.google.com/file/d/193nUNjEtb7fdqmTnQFOYFjua83xlnbmp/view?usp=drive_link)
+- [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_2024/blob/main/modules/Module_04_scRNAseq_Data_Structure.ipynb)
 
 ### Module 5: Data Quality Control
 This module focuses on techniques for assessing and ensuring the quality of single-cell RNA sequencing data. Topics include identifying and mitigating sources of technical noise, filtering out low-quality cells, and standardizing quality control metrics.  
-- [Google Colab Notebook](https://drive.google.com/file/d/1Sp4feBQOZ0aM3qkFHQh1K9WzJpiTut22/view?usp=drive_link)
+- [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_2024/blob/main/modules/Modules_05_07_scRNA_seq_Quality_Control_To_DEA.ipynb)
 - [Slides](https://docs.google.com/presentation/d/1HW_Wi2RMOVU_-CrVuliHPR5TS8d3fGX5/edit?usp=drive_link&ouid=109970662236337661286&rtpof=true&sd=true)
   
 ### Module 6: Data Normalization and Clustering
@@ -120,17 +121,17 @@ This module teaches methods for identifying differentially expressed genes betwe
 
 ### Module 8: Functional Analysis
 Participants will explore various approaches to functional analysis of single-cell RNA sequencing data, including pathway analysis, gene set enrichment, and the integration of external biological knowledge to interpret cellular functions.
-- [Google Colab Notebook](https://drive.google.com/file/d/1qztBtdAJSTjQW5FGokcuaT-F59VZnF0a/view?usp=share_link)
-- Slides
+- [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_2024/blob/main/modules/Module_08_scRNAseq_Functional_Analysis.ipynb)
+- [Slides](https://docs.google.com/presentation/d/1mZxloQaeM1noblFMyOa4qcrdAsEy0FaTVgGA2thgB-E/edit?usp=share_link)
 
 ### Module 9: scRNA-seq Dataset Integration
 This module covers strategies for integrating multiple single-cell RNA sequencing datasets to achieve a comprehensive understanding of cellular heterogeneity. Participants will learn about batch effect correction, data harmonization, and integration algorithms.
-- [Google Colab Notebook](https://drive.google.com/file/d/1g1zCMmMcgxHwLsCU7mttW4tcss6CmsXv/view?usp=drive_link)
-- Slides
+- [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_2024/blob/main/modules/Module_09_scRNAseq_Dataset_Integration.ipynb)
+- [Slides](https://docs.google.com/presentation/d/17ExeEoeCE3rSZ0cW5MvcvXQcGz8dRYtS/edit?usp=sharing&ouid=101776043777005105119&rtpof=true&sd=true)
 
 ### Module 10: Integration Benchmarks
 In this module, participants will evaluate different integration methods through benchmark datasets. They will learn how to assess the performance of integration techniques and select the appropriate method for their specific research questions.
-- [Google Colab Notebook](https://drive.google.com/file/d/13iUa1SdEyPDYQYUaDC0sSJ0Ms5FIKfUJ/view?usp=drive_link)
+- [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_2024/blob/main/modules/Module_10_Integration_Benchmark_Single_Cell_Genomics_Latin_America_Caribbean_2024_WCS.ipynb)
 - [Slides](https://docs.google.com/presentation/d/1f2jQuYD9TeeXhYZw66ZakoSxyfmkDlr0xpq_prT0LsI/edit?usp=sharing)
 - [Data to be used](https://drive.google.com/file/d/14D0a5MctYveP8N77__jzJw8FEt5IdMIs/view?usp=drive_link)
 - [Data with all integrations](https://drive.google.com/file/d/1Z8aXT7vGtfIyIqVi9YLSd2XI6C3SD2iH/view?usp=drive_link)
