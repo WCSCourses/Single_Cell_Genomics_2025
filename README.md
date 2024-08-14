@@ -126,7 +126,7 @@ Participants will explore various approaches to functional analysis of single-ce
 
 ### Module 9: scRNA-seq Dataset Integration
 This module covers strategies for integrating multiple single-cell RNA sequencing datasets to achieve a comprehensive understanding of cellular heterogeneity. Participants will learn about batch effect correction, data harmonization, and integration algorithms.
-- [Google Colab Notebook](https://drive.google.com/file/d/1g1zCMmMcgxHwLsCU7mttW4tcss6CmsXv/view?usp=drive_link)
+- [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_2024/blob/main/modules/Module_09_scRNAseq_Dataset_Integration.ipynb)
 - [Slides](https://docs.google.com/presentation/d/17ExeEoeCE3rSZ0cW5MvcvXQcGz8dRYtS/edit?usp=sharing&ouid=101776043777005105119&rtpof=true&sd=true)
 
 ### Module 10: Integration Benchmarks
