@@ -131,7 +131,7 @@ This module covers strategies for integrating multiple single-cell RNA sequencin
 
 ### Module 10: Integration Benchmarks
 In this module, participants will evaluate different integration methods through benchmark datasets. They will learn how to assess the performance of integration techniques and select the appropriate method for their specific research questions.
-- [Google Colab Notebook](https://drive.google.com/file/d/13iUa1SdEyPDYQYUaDC0sSJ0Ms5FIKfUJ/view?usp=drive_link)
+- [Google Colab Notebook](https://colab.research.google.com/github/WCSCourses/Single_Cell_Genomics_2024/blob/main/modules/Module_10_Integration_Benchmark_Single_Cell_Genomics_Latin_America_Caribbean_2024_WCS.ipynb)
 - [Slides](https://docs.google.com/presentation/d/1f2jQuYD9TeeXhYZw66ZakoSxyfmkDlr0xpq_prT0LsI/edit?usp=sharing)
 - [Data to be used](https://drive.google.com/file/d/14D0a5MctYveP8N77__jzJw8FEt5IdMIs/view?usp=drive_link)
 - [Data with all integrations](https://drive.google.com/file/d/1Z8aXT7vGtfIyIqVi9YLSd2XI6C3SD2iH/view?usp=drive_link)
