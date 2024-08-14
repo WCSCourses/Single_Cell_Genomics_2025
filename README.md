@@ -135,6 +135,10 @@ In this module, participants will evaluate different integration methods through
 - [Data to be used](https://drive.google.com/file/d/14D0a5MctYveP8N77__jzJw8FEt5IdMIs/view?usp=drive_link)
 - [Data with all integrations](https://drive.google.com/file/d/1Z8aXT7vGtfIyIqVi9YLSd2XI6C3SD2iH/view?usp=drive_link)
 
+### Extra Note: p-values and FDR
+This material was created on-the-fly with Benilton to demonstrate the (mis)use of p-values and FDRs when performing multiple hypothesis tests simultaneously.
+- [Google Colab Notebook](https://colab.research.google.com/drive/155wA5O_5aVlh4MsRKUbdcqz77VhXuNMm?usp=sharing)
+
 ### Project: Project Development
 We believe in hands-on learning and want to put your newly acquired bioinformatics skills to practice! At the end of our exciting week of classes, we've prepared a short project for you to dive into. This project will allow you to apply the knowledge gained throughout the course and further reinforce your understanding.
 
