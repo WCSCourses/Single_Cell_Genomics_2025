@@ -118,6 +118,8 @@ n this module, participants will learn methods for normalizing single-cell RNA s
 This module teaches methods for identifying differentially expressed genes between cell populations and annotating cell types based on gene expression profiles. Techniques for statistical testing and functional annotation will be discussed.
 - [Google Colab Notebook](https://drive.google.com/file/d/1Sp4feBQOZ0aM3qkFHQh1K9WzJpiTut22/view?usp=drive_link)
 - [Slides](https://benilton.github.io/wcs-rio/de_annot.html)
+- [Google Colab Notebook: p-values and FDR](https://colab.research.google.com/drive/155wA5O_5aVlh4MsRKUbdcqz77VhXuNMm?usp=sharing)
+- [Book: Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/)
 
 ### Module 8: Functional Analysis
 Participants will explore various approaches to functional analysis of single-cell RNA sequencing data, including pathway analysis, gene set enrichment, and the integration of external biological knowledge to interpret cellular functions.
@@ -135,10 +137,6 @@ In this module, participants will evaluate different integration methods through
 - [Slides](https://docs.google.com/presentation/d/1f2jQuYD9TeeXhYZw66ZakoSxyfmkDlr0xpq_prT0LsI/edit?usp=sharing)
 - [Data to be used](https://drive.google.com/file/d/14D0a5MctYveP8N77__jzJw8FEt5IdMIs/view?usp=drive_link)
 - [Data with all integrations](https://drive.google.com/file/d/1Z8aXT7vGtfIyIqVi9YLSd2XI6C3SD2iH/view?usp=drive_link)
-
-### Extra Note: p-values and FDR
-This material was created on-the-fly with Benilton to demonstrate the (mis)use of p-values and FDRs when performing multiple hypothesis tests simultaneously.
-- [Google Colab Notebook](https://colab.research.google.com/drive/155wA5O_5aVlh4MsRKUbdcqz77VhXuNMm?usp=sharing)
 
 ### Project: Project Development
 We believe in hands-on learning and want to put your newly acquired bioinformatics skills to practice! At the end of our exciting week of classes, we've prepared a short project for you to dive into. This project will allow you to apply the knowledge gained throughout the course and further reinforce your understanding.
