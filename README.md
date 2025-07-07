@@ -57,7 +57,7 @@ By the end of the event, participants will be able to:
 - Collaborate effectively in scientific teams to co-create solutions, share knowledge, and strengthen regional research networks.
 - Communicate and reflect on the potential scientific impact, translational value, and equity considerations of their proposed solutions.
 
-## Mentos
+## Mentors
 - [Patricia Abrão Possik](https://www.researchgate.net/profile/Patricia-Possik-2), National Institute of Cancer (INCA), Brazil
 - [Ricardo Chinchilla-Monge](), University of Costa Rica, Costa Rica
 - [Mariana Boroni](https://www.gov.br/inca/pt-br/assuntos/pesquisa/pesquisa-basica-e-experimental/bioinformatica-e-biologia-computacional), National Institute of Cancer (INCA), Brazil
