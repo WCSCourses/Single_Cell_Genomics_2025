@@ -71,7 +71,6 @@ By the end of the event, participants will be able to:
 - [Liã Bárbara Arruda](https://www.wellcomeconnectingscience.org/person/barbara-arruda-lia/), Education Developer
 - [Monica Abrudan](https://www.wellcomeconnectingscience.org/person/abrudan-monica/), Education Developer
 - [Isabela Malta](https://www.linkedin.com/in/isabela-malta-754503162/), Assistant Global Training Manager
-- [Karon Chappell](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-
 - [Martin Asltett](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Informatics Manager
 - [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
 
