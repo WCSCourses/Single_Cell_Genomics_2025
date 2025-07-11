@@ -1,4 +1,12 @@
-# Exploring public scRNA-seq repositories
+<img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
+
+# Single Cell Genomics - Latin America & the Caribbean
+
+## 10–16 July 2025, University of Costa Rica, San Jose, Costa Rica
+
+[Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-technologies-practical-approaches-advancing-research-latin-america-and-the-caribbean-20250710/) <br /> 
+
+## Exploring public scRNA-seq repositories
 
 In this section, we cover key public databases for single-cell data and other databases for gene expression, containing information for humans and other organisms. To enhance learning, we provide hands-on exercises for accessing, exploring, and analyzing these databases, allowing users to develop essential skills in biological data manipulation.
 
