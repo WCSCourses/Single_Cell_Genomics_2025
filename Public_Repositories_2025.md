@@ -3,4 +3,4 @@
 In this section, we cover key public databases for single-cell data and other databases for gene expression, containing information for humans and other organisms. To enhance learning, we provide hands-on exercises for accessing, exploring, and analyzing these databases, allowing users to develop essential skills in biological data manipulation.
 
 
-https://colab.research.google.com/drive/1dMNwVvf15EomkxbZmL0zo4wqmX7_G9vW#scrollTo=mFvsob440DgF
+[Google Colab Notebook:](https://colab.research.google.com/drive/1dMNwVvf15EomkxbZmL0zo4wqmX7_G9vW#scrollTo=mFvsob440DgF).
